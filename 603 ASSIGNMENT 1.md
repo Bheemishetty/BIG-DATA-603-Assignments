@@ -97,11 +97,11 @@ Effective scaling techniques include read-only and write-active database separat
     References :
 
 1. What is big data: [https://www.tutorialspoint.com/what-is-big-data](https://www.tutorialspoint.com/what-is-big-data)
-1. 22 Big data examples: [https://builtin.com/big-data/big-data-examples-applications](https://builtin.com/big-data/big-data-examples-applications)
-1. What is Big Data, Big Data Explained :
+2. 22 Big data examples: [https://builtin.com/big-data/big-data-examples-applications](https://builtin.com/big-data/big-data-examples-applications)
+3. What is Big Data, Big Data Explained :
 
 [https://www.tableau.com/learn/articles/what-is-big-data#:~:text=Structured%20data%20is%20the%20neatly,possible%20with%20the%20right%20solution](https://www.tableau.com/learn/articles/what-is-big-data#:~:text=Structured%20data%20is%20the%20neatly,possible%20with%20the%20right%20solution).
 
-1. 6 V's of Big Data: [https://www.geeksforgeeks.org/5-vs-of-big-data/](https://www.geeksforgeeks.org/5-vs-of-big-data/)
-1. Phases of Data Analysis: [https://www.tableau.com/learn/articles/big-data-analytics](https://www.tableau.com/learn/articles/big-data-analytics)
-1. Challenges in big data analysis: [https://www.simplilearn.com/challenges-of-big-data-article](https://www.simplilearn.com/challenges-of-big-data-article)
+4. 6 V's of Big Data: [https://www.geeksforgeeks.org/5-vs-of-big-data/](https://www.geeksforgeeks.org/5-vs-of-big-data/)
+5. Phases of Data Analysis: [https://www.tableau.com/learn/articles/big-data-analytics](https://www.tableau.com/learn/articles/big-data-analytics)
+6. Challenges in big data analysis: [https://www.simplilearn.com/challenges-of-big-data-article](https://www.simplilearn.com/challenges-of-big-data-article)
